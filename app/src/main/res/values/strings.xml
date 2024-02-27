@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Detona</string>
+    <string name="home">Home</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="tutorials">Tutorials</string>
+    <string name="feed">Feed</string>
+    <string name="untitled">Untitled</string>
+</resources>
